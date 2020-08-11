@@ -9,7 +9,7 @@
 <img src="images/gsathumbnail.JPG?raw=true"/>
 
 ---
-[Fancy Gnat](http:/pdf/fancygnat.pdf/)
+[Fancy Gnat](/pdf/Fancy%20Gnat%20presentation.pdf)
 <img src="images/fancygnatthumb.JPG?raw=true"/>
 
 ---
