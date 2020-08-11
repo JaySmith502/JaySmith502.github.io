@@ -5,7 +5,7 @@
 ### Presentations
 
 [Girl Scouts of Kentuckiana Cyber Security Badge Workshops](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cadettethumb.jpg?raw=true"/>
 
 ---
 [Wypd, LLC](http://example.com/)
