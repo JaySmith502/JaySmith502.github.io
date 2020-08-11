@@ -9,12 +9,14 @@
 <img src="images/gsathumbnail.JPG?raw=true"/>
 
 ---
-[Fancy Gnat](/pdf/Fancy%20Gnat%20presentation.pdf)
+[Fancy Gnat - Kentuckiana ISSA Presentation](/pdf/Fancy%20Gnat%20presentation.pdf)
+
 <img src="images/fancygnatthumb.JPG?raw=true"/>
 
 ---
 
-[Alliance Investigation Group](/sample_page)
+[JCPS High School Cyber Security Careers Presentation](/sample_page)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
