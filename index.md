@@ -9,8 +9,8 @@
 <img src="images/gsathumbnail.JPG?raw=true"/>
 
 ---
-[Fancy Gnat](http:/pdf/fancygnat.jpg/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Fancy Gnat](http:/pdf/fancygnat.pdf/)
+<img src="images/fancygnatthumb.JPG?raw=true"/>
 
 ---
 
