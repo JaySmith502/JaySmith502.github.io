@@ -15,9 +15,9 @@
 
 ---
 
-[JCPS High School Cyber Security Careers Presentation](/sample_page)
+[JCPS High School Cyber Security Careers Presentation](/samplepage/)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/careerthumb.JPG?raw=true"/>
 
 ---
 
