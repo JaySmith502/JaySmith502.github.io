@@ -2,17 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Presentations
 
-[Alliance Investigation Group](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 [Girl Scouts of Kentuckiana Cyber Security Badge Workshops](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Wypd, LLC](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Alliance Investigation Group](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
