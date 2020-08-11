@@ -12,13 +12,13 @@
 
 [Girl Scouts of Kentuckiana Cyber Security Badge Workshops (Cadettes)](/pdf/Junior%20Cybersecurity%20Troop%201670%20Complete.pdf)
 
-<img src="images/gsathumbnail.JPG?raw=true"/>
+<img src="images/cadettethumb2.JPG?raw=true"/>
 
 ---
 
 [Girl Scouts of Kentuckiana Cyber Security Badge Workshops (Brownies)](/pdf/Junior%20Cybersecurity%20Troop%201670%20Complete.pdf)
 
-<img src="images/gsathumbnail.JPG?raw=true"/>
+<img src="images/browniethumbnail.JPG?raw=true"/>
 
 ---
 [Fancy Gnat - Kentuckiana ISSA Presentation](/pdf/Fancy%20Gnat%20presentation.pdf)
