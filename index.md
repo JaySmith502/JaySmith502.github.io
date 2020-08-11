@@ -5,10 +5,11 @@
 ### Presentations
 
 [Girl Scouts of Kentuckiana Cyber Security Badge Workshops](/pdf/Junior%20Cybersecurity%20Troop%201670%20Complete.pdf)
+
 <img src="images/gsathumbnail.JPG?raw=true"/>
 
 ---
-[Wypd, LLC](http://example.com/)
+[Fancy Gnat](http:/pdf/fancygnat.jpg/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
