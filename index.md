@@ -10,7 +10,7 @@
 
 ---
 
-[Girl Scouts of Kentuckiana Cyber Security Badge Workshops (Cadettes)](/pdf/Junior%20Cybersecurity%20Troop%201670%20Complete.pdf)
+[Girl Scouts of Kentuckiana Cyber Security Badge Workshops (Cadettes)](/pdf/Cadette%20Cybersecurity%20Troop%202120%20Complete.pdf)
 
 <img src="images/cadettethumb2.JPG?raw=true"/>
 
