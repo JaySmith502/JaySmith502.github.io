@@ -22,7 +22,7 @@
 ---
 
 
-[High School Parent Communications with Teens](/pdf/CareerPreso.pdf/)
+[High School Parent Communications with Teens](/pdf/ParentComms.pdf/)
 
 <img src="images/parentcommsthumb.JPG?raw=true"/>
 
