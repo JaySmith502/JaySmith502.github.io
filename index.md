@@ -45,7 +45,7 @@
 <img src="images/bddthumb.JPG?raw=true"/>
 
 ---
-[CircleCityCon 2018 Volatile Memory Forensics Workshop](/pdf/ccc.PDF/)
+[CircleCityCon 2018 Volatile Memory Forensics Workshop](/pdf/ccc.pdf/)
 
 <img src="images/cccvol.JPG?raw=true"/>
 
