@@ -27,13 +27,12 @@
 <img src="images/parentcommsthumb.JPG?raw=true"/>
 
 ---
-### Category Name 2
+### Web Work
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [ISSA Website Maintenance](http://issa-kentuckiana.org//)
+- [Security On The Rise 501(c)(3)](https://securityontherise.com/)
+- [Alliance Investigation Group Website Creation & Maintenance](https://allianceinvestigationgroup.com/)
+- [Wypd, LLC - Coming Soon](https://wypd.info/)
 
 ---
 
