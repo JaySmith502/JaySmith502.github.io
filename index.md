@@ -4,7 +4,19 @@
 
 ### Presentations
 
-[Girl Scouts of Kentuckiana Cyber Security Badge Workshops](/pdf/Junior%20Cybersecurity%20Troop%201670%20Complete.pdf)
+[Girl Scouts of Kentuckiana Cyber Security Badge Workshops (Juniors)](/pdf/Junior%20Cybersecurity%20Troop%201670%20Complete.pdf)
+
+<img src="images/gsathumbnail.JPG?raw=true"/>
+
+---
+
+[Girl Scouts of Kentuckiana Cyber Security Badge Workshops (Cadettes)](/pdf/Junior%20Cybersecurity%20Troop%201670%20Complete.pdf)
+
+<img src="images/gsathumbnail.JPG?raw=true"/>
+
+---
+
+[Girl Scouts of Kentuckiana Cyber Security Badge Workshops (Brownies)](/pdf/Junior%20Cybersecurity%20Troop%201670%20Complete.pdf)
 
 <img src="images/gsathumbnail.JPG?raw=true"/>
 
