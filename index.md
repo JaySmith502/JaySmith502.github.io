@@ -45,6 +45,11 @@
 <img src="images/bddthumb.JPG?raw=true"/>
 
 ---
+[CircleCityCon 2018 Volatile Memory Forensics Workshop](/pdf/ccc.PDF/)
+
+<img src="images/cccvol.JPG?raw=true"/>
+
+---
 ### Web Work
 
 - [ISSA Website Maintenance](http://issa-kentuckiana.org//)
